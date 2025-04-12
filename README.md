@@ -38,7 +38,7 @@ The Weather Dashboard (WD V1.0.5) is a web application that provides users with 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/weather-dashboard.git
+   git clone https://github.com/webdeveloperdesigner/weather-dashboard.git
    ```
 2. Navigate to the project directory:
    ```bash
