@@ -70,7 +70,7 @@ You can test the backend API directly in your browser or using tools like Postma
 ```
 http://localhost:5000/weather?city=CityName 
 ```
-       *OR*
+*OR*
 ```
 https://api.openweathermap.org/data/2.5/weather?q=CityName&appid=abxxxxxxx&units=metric
 ```
