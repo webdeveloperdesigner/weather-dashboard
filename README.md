@@ -70,7 +70,13 @@ You can test the backend API directly in your browser or using tools like Postma
 ```
 http://localhost:5000/weather?city=CityName 
 ```
+       *OR*
+```
+https://api.openweathermap.org/data/2.5/weather?q=CityName&appid=abxxxxxxx&units=metric
+```
+
 - Replace `CityName` with any city name to get the current weather data.
+- Replace `abxxxxxxx` with your API key to get the current weather data.
 - The API uses the OpenWeatherMap service to fetch real-time weather information.
 
 ### Sample Response:
