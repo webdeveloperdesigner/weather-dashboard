@@ -1,6 +1,6 @@
 # Weather Dashboard (WD V1.0.5)
 
-The Weather Dashboard (WD V1.0.0) is a web application that provides users with real-time weather updates and forecasts for cities worldwide. It is designed with a user-friendly interface and responsive design to ensure accessibility across devices.
+The Weather Dashboard (WD V1.0.5) is a web application that provides users with real-time weather updates and forecasts for cities worldwide. It is designed with a user-friendly interface and responsive design to ensure accessibility across devices.
 
 ---
 
