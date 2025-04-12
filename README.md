@@ -59,6 +59,33 @@ The Weather Dashboard (WD V1.0.5) is a web application that provides users with 
    ```
 5. Open `http://localhost:3000` in your browser to access the application.
 
+
+---
+
+## 🧪 Test the Weather API
+
+You can test the backend API directly in your browser or using tools like Postman.
+
+### Example API Endpoint:
+```
+http://localhost:5000/weather?city=CityName 
+```
+- Replace `CityName` with any city name to get the current weather data.
+- The API uses the OpenWeatherMap service to fetch real-time weather information.
+
+### Sample Response:
+```json
+{
+  "city": "Hello",
+  "temperature": "15°C",
+  "description": "Cloudy",
+  "humidity": "72%",
+  "wind": "10 km/h"
+}
+```
+
+> Make sure your backend server is running locally on port 5000 before testing.
+
 ---
 
 ## Usage
