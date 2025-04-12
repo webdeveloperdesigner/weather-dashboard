@@ -44,7 +44,12 @@ The Weather Dashboard (WD V1.0.0) is a web application that provides users with 
    ```bash
    cd weather-dashboard
    ```
-3. Install dependencies:
+    ```bash
+   cd  client 
+    
+   cd server
+   ```
+3. Install dependencies in both:
    ```bash
    npm install
    ```
