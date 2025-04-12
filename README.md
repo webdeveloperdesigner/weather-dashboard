@@ -122,6 +122,23 @@ weather-dashboard/
 - **Current Version**: WD V1.0.5
 
 ---
+### 📊 Version Status Table
+
+| Version       | GitHub Code | Live Website | Key Changes                                                                 |
+|---------------|-------------|---------------|------------------------------------------------------------------------------|
+| WD V1.0.0     | ✅ Updated  | ✅ Updated    | Initial release with basic weather dashboard, search, forecast, and UI     |
+| WD V1.0.1     | ✅ Updated  | ✅ Updated    | Documented Express error handling in `Error.md`                             |
+| WD V1.0.2     | ✅ Updated  | ✅ Updated    | Added more error handling (port conflict, API fetch failure)               |
+| WD V1.0.3     | ✅ Updated  | ✅ Updated    | Created `Error.md`, improved server-side API error handling                |
+| WD V1.0.4     | ✅ Updated  | ✅ Updated    | Integrated React.js, updated project structure, noted React loading error  |
+| WD V1.0.5     | ✅ Updated  | ✅ Updated    | Improved docs, React usage in README, UI instructions, error tracking      |
+| WD V1.0.6     | ❌ Not Updated | ✅ Updated | Offline/online status, geolocation fetch, mobile UI fixes, error handling  |
+| WD V1.0.7     | ❌ Not Updated | 🔜 Coming Soon | Minor improvements and bug fixes (planned)                                  |
+| WD V1.0.8     | ❌ Not Updated | 🔜 Coming Soon | New features and UI enhancements (planned)                                  |
+| WD V1.0.9     | ❌ Not Updated | 🔜 Coming Soon | Final performance optimizations and pre-stable testing                      |
+| WD V1.2.0 (Stable) | 🔜 Coming Soon | 🔜 Coming Soon | Final stable release with all planned features                              |
+
+----
 
 ## License
 
